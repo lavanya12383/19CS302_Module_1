@@ -3,11 +3,12 @@
 To write a program to initialize the value as 5.8 & display the same.
 
 ## Algorithm
-1. 
-2. 
-3. 
-4.  
-5.   
+Start
+Declare a variable num of type float.
+Assign/Initialize the value 
+ to num (num = 5.8).
+Print the value of num using printf with format specifier %f.
+End 
 
 ## Program:
 
@@ -29,7 +30,8 @@ int main() {
 
 
 ## Output:
-![Uploading Screenshot 2026-03-25 210221.png…]()
+<img width="395" height="192" alt="Screenshot 2026-03-25 210221" src="https://github.com/user-attachments/assets/c223ae8a-697b-4aa6-b5d8-e24f3916fc3b" />
+
 
 
 
